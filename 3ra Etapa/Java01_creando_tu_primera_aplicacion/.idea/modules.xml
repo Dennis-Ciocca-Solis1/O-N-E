@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2023-Java-creando-tu-primera-aplicacion-aula-1/2023-Java-creando-tu-primera-aplicacion-aula-1.iml" filepath="$PROJECT_DIR$/2023-Java-creando-tu-primera-aplicacion-aula-1/2023-Java-creando-tu-primera-aplicacion-aula-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2023-Java-creando-tu-primera-aplicacion-aula-2/2023-Java-creando-tu-primera-aplicacion-aula-2.iml" filepath="$PROJECT_DIR$/2023-Java-creando-tu-primera-aplicacion-aula-2/2023-Java-creando-tu-primera-aplicacion-aula-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2023-Java-creando-tu-primera-aplicacion-aula-3/2023-Java-creando-tu-primera-aplicacion-aula-3.iml" filepath="$PROJECT_DIR$/2023-Java-creando-tu-primera-aplicacion-aula-3/2023-Java-creando-tu-primera-aplicacion-aula-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimerPrograma/PrimerPrograma.iml" filepath="$PROJECT_DIR$/PrimerPrograma/PrimerPrograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/creando_tu_primera_aplicacion.iml" filepath="$PROJECT_DIR$/.idea/creando_tu_primera_aplicacion.iml" />
+    </modules>
+  </component>
+</project>
